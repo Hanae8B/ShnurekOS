@@ -1,0 +1,10 @@
+build/ 
+iso/ 
+*.iso 
+*.log 
+*.env 
+*.key 
+*.secret 
+*.config 
+.DS_Store 
+Thumbs.db 
